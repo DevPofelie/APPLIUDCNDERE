@@ -1,0 +1,52 @@
+id,nom,prénom,naissance,nationalité,congrégation,fête,firstvows,finalvows,sacerdoce,localité,email,tél
+1,ANAGUEDEU DOGO,Joseph,20/06,Cameroun,Oblat de Marie Immaculée,19/03,08/09/2016,01/01/2020,26/07/2025,Meiganga,dogoanaguedeu@gmail.com,(+237)699151880
+2,CHROSZCZ,Alojzy,04/03,Pologne,Oblat de Marie Immaculée,21/06,08/09/1971,01/01/2020,20/06/1977,Ngaoundéré,chroszczalojzy@gmail.com,(+237)696244366
+3,DASHE,Moses NAANKUS,27/05,Nigéria,Oblat de Marie Immaculée,04/09,08/09/2020,---------,-----,Djohong,mosaugustine@gmail.com,(+237)652893262
+4,GOSSAMBAYE,Christian,16/07,Tchad,Oblat de Marie Immaculée,12/11,08/09/2008,08/09/2015,------,Djohong,christian.allah2021@gmail.com,(+237)675326938
+5,GUIDANA,Alphonse,11/04,Cameroun,Oblat de Marie Immaculée,01/08,08/09/2016,01/01/2020,27/04/2024,Djohong,guidphonse@gmail.com,(+237)655320086
+6,HINGBO,Edmond,11/03,Cameroun,Oblat de Marie Immaculée,20/11,03/09/2004,01/01/2020,07/07/2012,Ngaoundéré,hingboedmond@yahoo.fr,(+237)695482033
+7,HOUNWORE DAZAMGA DEBONG,Marcel,31/07,Tchad,Oblat de Marie Immaculée,16/01,08/09/2017,01/01/2020,13/12/2025,Ngaoundéré,---------@yahoo.fr,(+237)6---------
+8,IORBEE AONDONGU,James Emmanuel,04/03,Nigéria,Oblat de Marie Immaculée,04/10,08/09/2014,01/01/2020,19/02/2022,Meiganga,iorbeeemmanuel@gmail.com,(+237)657860830
+15,MANIANGA KABAMBI,Joachim,12/08,R.D. Congo,Oblat de Marie Immaculée,26/07,08/09/1981,01/01/2020,06/08/1989,Ngaoundéré,manianga2@yahoo.fr,(+237)699420060
+16,MBADI NYEK NTEP,Luc-Raymond,16/10,Cameroun,Oblat de Marie Immaculée,18/10,08/09/2010,01/01/2020,30/06/2018,Ngaoundéré,lucraymondomi@gmail.com,(+237)696190650
+17,PENTA POULAKOU,Pierre,01/01,Cameroun,Oblat de Marie Immaculée,29/06,08/09/1990,17/02/1997,--------,Ngaoundéré,fpppoulakou@gmail.com,(+237)699476140
+18,SIMO,Thierry,30/04,Cameroun,Oblat de Marie Immaculée,01/07,08/09/2002,24/01/2008,05/12/2009,Ngaoundéré,tstotapuri@gmail.com,(+237)677259100
+19,VAÏLAM OUIN,Gilbert,04/02,Tchad,Oblat de Marie Immaculée,07/06,08/09/2011,01/01/2020,16/11/2019,Ngaoundéré,gvailamouin@gmail.com,(+237)699111059
+20,YINA,Clement SAAONDO,05/08,Nigéria,Oblat de Marie Immaculée,05/08,08/09/2022,---------,------,Ngaoundéré,yinaclement@gmail.com,(+237)697289579
+21,LAWRENCE,Dominic,--/--,Nigéria,Missionnaire Ad Gentes,--/--,--/--/----,--/--/----,??????,Ngaoundéré,--------------@-----.--,(+237)6--------
+23,EZEOKOLI,Christopher Chizoba,--/--,Nigéria,Missionnaire Ad Gentes,--/--,--/--/----,--/--/----,??????,Ngaoundéré,a-------------@-----.--,(+237)6--------
+24,U.,Mary Claire,--/--,Nigéria,Missionnaire Ad Gentes,--/--,--/--/----,--/--/----,------,Ngaoundéré,b-------------@-----.--,(+237)6--------
+25,OKEREKE,Marie-Assumpta,--/--,Nigéria,Missionnaire Ad Gentes,--/--,--/--/----,--/--/----,------,Ngaoundéré,c-------------@-----.--,(+237)6--------
+26,AMOUGOU,Emile,--/--,Cameroun,Missionnaire Saint François de Sales,--/--,--/--/----,--/--/----,--/--/----,Ngaoundéré,d-------------@-----.--,(+237)6--------
+27,NDEIALDONGAR,Toussaint,--/--,Nigéria,Missionnaire Saint François de Sales,--/--,--/--/----,--/--/----,--/--/----,Ngaoundéré,e-------------@-----.--,(+237)6--------
+28,CHABI,Titus,--/--,Nigéria,Missionnaire Saint François de Sales,--/--,--/--/----,?????,------,NGaoundéré,f-------------@-----.--,(+237)6--------
+29,BASSENE,Etienne MEGNA,12/07,Sénégal,Oblat de Marie Immaculée,26/12,05/09/1999,31/12/2005,----------,Ngaoundéré,megnabassenes@yahoo.fr,(+237)692362735
+30,HASLER,Izabela,,,Soeurs Servantes de Marie Immaculée,,,,,Ngaoundéré,,
+31,BOGUSZEWSKA,Anna,,,Soeurs Servantes de Marie Immaculée,,,,,Ngaoundéré,,
+32,TONGOU,Agnès,,,Soeurs Servantes de Marie Immaculée,,,,,Ngaoundéré,,
+33,BOLOUM,Claudine,,,Soeurs de la charité de Sainte Antide Thouret,,,,,Ngaoundal,,
+34,BEYALA BELA,Elisabeth,,,Soeurs de la charité de Sainte Antide Thouret,,,,,Ngaoundal,,
+35,RICHARD,Christine,,,Soeurs de la charité de Sainte Antide Thouret,,,,,Ngaoundal,,
+36,NTUMBA,Lucie,,,Soeurs de la charité de Sainte Antide Thouret,,,,,Ngaoundal,,
+37,MOKPEGBIA,Albertine Prisca,,,Soeurs de la charité de Sainte Antide Thouret,,,,,Ngaoundal,,
+38,OUYA,Cathérine,,,Soeurs de la charité de Sainte Antide Thouret,,,,,Ngaoundal,,
+39,MONIQUE,Colette,,,Soeurs de la charité de Sainte Antide Thouret,,,,,Ngaoundal,,
+40,KEMSOL,Bienvenue,,,Soeurs de la charité de Sainte Antide Thouret,,,,,Ngaoundal,,
+42,TOUBLANT,Dénise,,France,Filles de Jésus,,15/06/1970,,,Ngaoundéré,dentoublant@gmail.com,681514125-699683410
+43,ALARBA DISATOU,Nadège,,Cameroun,Filles de Jésus,,26/08/2001,,,Ngaoundéré,larbanadge@yahoo.fr,695866102
+44,DIGVIDAI SIWA,Isabelle,,Cameroun,Filles de Jésus,,26/07/2008,,,Ngaoundéré,isabellesiwadigvidai@gmail.com,676255827-693569383
+45,NTUMBA,Brigitte,,,Soeurs Oblates Mater Orphanorum,,,,,Ngaoundéré,,
+46,NGALULA,Sandrine,,,Soeurs Oblates Mater Orphanorum,,,,,Ngaoundéré,,
+47,ZAPPONE,Philomène,,,Communauté du Foyer Saints Anges Gardiens,,,,,Ngaoundéré,,
+48,OSWALD,Nicole,,,Communauté du Foyer Saints Anges Gardiens,,,,,Ngaoundéré,,
+49,LUZ,Maria,,,Communauté du Foyer Saints Anges Gardiens,,,,,Ngaoundéré,,
+50,DJIMAHOUL,Cécilia,,,Communauté du Foyer Saints Anges Gardiens,,,,,Ngaoundéré,,
+51,GINYOH,Anne Marie,,,Tertiary Sisters of St Francis,,,,,Banyo,,
+52,BIKONGNYUY,Annette,,,Tertiary Sisters of St Francis,,,,,Banyo,,
+53,LEMLO,Yvette,,,Tertiary Sisters of St Francis,,,,,Banyo,,
+54,BANAGA,Lydie,,,Ursulines de Jésus,,,,,Ngaoundéré,,
+55,KENEMBENI,Sabine,,,Ursulines de Jésus,,,,,Ngaoudéré,,
+56,RAMANATENANSOA,Tatienne,,,ursulines de Jésus,,,,,Ngaoundéré,,
+57,OBIOYO,Marie-Edwige,,,Ursulines de Jésus,,,,,Ngaoundéré,,
+58,ADIANA,Philomène,,,Ursulines de Jésus,,,,,Ngaoundéré,,
+59,BOUNONG,Marie Louise,,,Ursulines de Jésus,,,,,Ngaoundéré,,
